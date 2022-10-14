@@ -1,6 +1,7 @@
-class adalah keterangan dalam pembuatan program, dan object adalah hasil instance atau penciptaan dari sebuah class.
-dalam method ada beberapa jenis method diantaranya seperti Setter (mutator) dan Getter (Accssor). 
-Setter pada umumnya digunakan untuk memberikan nilai ataupun untuk menampilkan nilai dari variable. sedangkan Getter digunakan untuk mengambil nilai variabel dengan cara melakukan return value.
+1. class adalah keterangan dalam pembuatan program, dan object adalah hasil instance atau penciptaan dari sebuah class.
+2. dalam method ada beberapa jenis method diantaranya seperti Setter (mutator) dan Getter (Accssor). 
+   Setter pada umumnya digunakan untuk memberikan nilai ataupun untuk menampilkan nilai dari variable. sedangkan Getter digunakan untuk mengambil nilai variabel dengan      cara melakukan return value.
+3.
 1. Nama class
 2. Atribut
 3. fungsi setter untuk memberikan nilai jenis komputer dan merk komputer
